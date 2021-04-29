@@ -33,6 +33,7 @@ Invest now and hold for the long play.
 
 Invest in May-June.
 
+![Nike_predicted_graph](https://user-images.githubusercontent.com/67566192/116620348-b5861900-a90f-11eb-95dc-d2b2b84a11b4.png)
 
 ## Conclusion and Future Work
 While my best model had a high AIC score, the MSE came in at 0.113 on the test data. We can reject the null hypothesis as we identified that May and June are when the stock price is historically the lowest and therefore the best time to invest. 
