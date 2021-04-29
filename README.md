@@ -26,7 +26,7 @@ For modeling, I chose to work with an ARIMA model as it accounts for all aspects
 
 ## Findings
 Nike has a constant upward trend therefore my model predicted that this will continue to be the case and you should invest. Historically, May and June are the best times to invest as it is before the holiday season and after the public interest has fallen following the reported earnings after the holiday season. 
-
+![Nike_rec1](https://user-images.githubusercontent.com/67566192/116620445-d64e6e80-a90f-11eb-92a9-8122a654fbe9.png)
 
 ## Recommendations
 Invest now and hold for the long play.
